@@ -431,7 +431,7 @@ footer a {
 
 
 /* -------------------- MEDIA QUERY (medium) --------------------------------*/
-@media (min-width: 600px) {
+@media (min-width: 620px) {
     nav ul {
         display: none;
         flex-direction: column;
@@ -541,7 +541,7 @@ footer a {
 
 
 /* -------------------- MEDIA QUERY (large) ----------------------------------*/
-@media (min-width: 1024px) {
+@media (min-width: 950px) {
     nav ul {
         display: flex;
         justify-content: flex-start; 
@@ -666,7 +666,7 @@ footer a {
 }
 
 /* -------------------- MEDIA QUERY (xl) -------------------------------------*/
-@media (min-width: 1440px) {
+@media (min-width: 1280px) {
     body, main {
         padding-left: 40px;  
         padding-right: 40px; 
